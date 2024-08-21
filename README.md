@@ -1,8 +1,12 @@
 # Snake Training Model
 A brief description of your project, including its purpose and key features.
 
+![was inpired by this] (https://youtu.be/zIkBYwdkuTk?si=knF_4KjttanJPvWn)
+
 ## Description of the Model
 A detailed description of this section of your project. Explain what it does, how it works, and any relevant details.
+
+
 
 ### Images
 ![Image 1 Description](path/to/image1.png)
