@@ -3,7 +3,3 @@ torch
 pygame
 numpy
 matplotlib
-game
-model
-helper
-
